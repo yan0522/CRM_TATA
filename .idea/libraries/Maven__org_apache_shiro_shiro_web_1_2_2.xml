@@ -1,6 +1,15 @@
 <component name="libraryTable">
   <library name="Maven: org.apache.shiro:shiro-web:1.2.2">
     <CLASSES>
+<<<<<<< HEAD
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/" />
+=======
       <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -8,6 +17,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/" />
+>>>>>>> 614a28135f8cd4c7016f63511adc0e2102ea21a1
     </SOURCES>
   </library>
 </component>
