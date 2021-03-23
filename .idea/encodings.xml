@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+=======
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+>>>>>>> 614a28135f8cd4c7016f63511adc0e2102ea21a1
 </project>

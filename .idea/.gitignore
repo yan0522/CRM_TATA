@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../../:\TMP\workspace\workspace-idea64\CRM_TATA\.idea/dataSources/
+=======
+/dataSources/
+>>>>>>> 614a28135f8cd4c7016f63511adc0e2102ea21a1
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/

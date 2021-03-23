@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: org.slf4j:slf4j-api:1.6.4">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -8,6 +9,15 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar!/" />
+=======
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar!/" />
+>>>>>>> 614a28135f8cd4c7016f63511adc0e2102ea21a1
     </SOURCES>
   </library>
 </component>

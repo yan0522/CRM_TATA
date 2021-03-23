@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-context:4.0.0.RELEASE">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -8,6 +9,15 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/" />
+=======
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../RepMaven/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/" />
+>>>>>>> 614a28135f8cd4c7016f63511adc0e2102ea21a1
     </SOURCES>
   </library>
 </component>
